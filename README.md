@@ -2,10 +2,10 @@
 
 ## **indice**
 
-* [1. Intro](https://github.com/alondra-gomex/clonacion-google/edit/main/README.md#1-intro)
-* [2. Que construÍ](https://github.com/alondra-gomex/clonacion-google/edit/main/README.md#2-que-constru%C3%AD)
-* [3. Objetivo del Proyecto](https://github.com/alondra-gomex/clonacion-google/edit/main/README.md#3-objetivo-del-proyecto)
-* [4. Link a Demo](https://github.com/alondra-gomex/clonacion-google/edit/main/README.md#4-link-a-demo)
+* [1. Intro](https://github.com/alondra-gomex/clonacion-google/blob/main/README.md#1-intro)
+* [2. Que construÍ](https://github.com/alondra-gomex/clonacion-google/blob/main/README.md#2-que-constru%C3%AD)
+* [3. Objetivo del Proyecto](https://github.com/alondra-gomex/clonacion-google/blob/main/README.md#3-objetivo-del-proyecto)
+* [4. Link a Demo](https://github.com/alondra-gomex/clonacion-google/blob/main/README.md#4-link-a-demo)
 ****
 ## 1. Intro
 HTML5 reabaja de la mano con CSS3 para crear paginas web que usamos todos los dias en el navegador, incluso este sitio wrb donde estas viendo este navegador fue construido por HTMl y CSS. En este proyecto, con los conocimientos de HTml y CSS realoce una clonacion
